@@ -1,0 +1,10 @@
+# python3.7.9
+# pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+packaging
+imutils==0.5.4
+matplotlib==3.5.2
+opencv-python==4.1.1.26
+pycuda
+nvidia-tensorrt==8.2.5.1
+tensorflow==1.14
+scipy==1.1
