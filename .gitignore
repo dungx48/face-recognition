@@ -131,4 +131,4 @@ dmypy.json
 
 torch2trt/
 pretrain/
-dataset/processed
+dataset/processed/*
